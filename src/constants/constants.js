@@ -1146,7 +1146,8 @@ export const allmembers = [
   },
 ];
 export const achievements = [
-  {img: "https://res.cloudinary.com/df5hitkbj/image/upload/v1693141355/WhatsApp_Image_2023-08-27_at_18.31.44_bcdpq4.jpg",
+  {
+    img: "https://res.cloudinary.com/df5hitkbj/image/upload/v1693141355/WhatsApp_Image_2023-08-27_at_18.31.44_bcdpq4.jpg",
     name: "Pradeepto Sarkar",
     batch: "2020-24",
     achievements: `
@@ -1235,7 +1236,7 @@ export const achievements = [
         <li>Security intern @ Delhi Police</li>
         <li>Security intern @ Gurugram Police</li>
         <li>2nd @ Hackathon Reckon 5.0</li>
-        <li>3rd @ Hackathon HackHaxards</li>
+        <li>3rd @ Hackathon HackHazards</li>
       </ul>
       
     `
